@@ -111,12 +111,6 @@ From employee demographics to promotion eligibility, every visual was built to a
 
 ---
 
-## 📁 Files
-- `(https://github.com/Moradeun/hr-analytics-dashboard/blob/main/hr%20dashboard%20project.PNG)
-` → Dashboard screenshot
-  
-
----
 
 **Author:*Ope 0gun* 
 **Date:** 2025-08-12  
