@@ -112,8 +112,9 @@ From employee demographics to promotion eligibility, every visual was built to a
 ---
 
 ## 📁 Files
-- `hr dashboard project.PNG` → Dashboard screenshot
-- `hr_analytics_dashboard.pbix` → Power BI file (optional)
+- `(https://github.com/Moradeun/hr-analytics-dashboard/blob/main/hr%20dashboard%20project.PNG)
+` → Dashboard screenshot
+  
 
 ---
 
