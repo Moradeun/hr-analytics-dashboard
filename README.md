@@ -42,7 +42,7 @@ The dataset used in this project contains the following fields:
 ---
 
 ## 📷 Dashboard Preview
-![HR Dashboard](hr%20dashboard%20project.PNG)
+![HR Dashboard](https://github.com/Moradeun/hr-analytics-dashboard/blob/main/hr%20dashboard%20project.PNG)
 
 ---
 
@@ -64,7 +64,7 @@ The dataset used in this project contains the following fields:
 ---
 
 ## 🌐 Live Dashboard
-[View on Power BI Service](<Insert Power BI Share Link Here>)
+[View on Power BI Service](<https://app.powerbi.com/links/YqREWEjcwR?ctid=495e7232-ce07-44f8-9117-c4625c022ca7&pbi_source=linkShare>)
 
 ---
 
